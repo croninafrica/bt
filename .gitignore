@@ -1,0 +1,12 @@
+node_modules/
+web/node_modules/
+web/dist/
+.env
+.DS_Store
+*.log
+mcps/
+terminals/
+scripts/debug-*
+scripts/nyaa-sample.*
+scripts/probe.mjs
+scripts/test-*.mjs
