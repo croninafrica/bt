@@ -1,3 +1,0 @@
-# bt
-
-Magnet search project.
